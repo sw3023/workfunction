@@ -1,7 +1,7 @@
 Workfunction
 ============
 
-A C++ program to calculate a 1D planar averaged electrostatic potential from a 3D potential grid for the density functional theory code VASP. It can be used to compute the workfunction (or ionisation potential) for a material surface or as an alignment technique for comparing the electronic eigenvalues of different systems. 
+A C program to calculate a 1D planar averaged electrostatic potential from a 3D potential grid for the density functional theory code VASP. It can be used to compute the workfunction (or ionisation potential) for a material surface or as an alignment technique for comparing the electronic eigenvalues of different systems. 
 
 For original Fortran version, search Github repository WMD-group/workfunction
 
