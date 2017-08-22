@@ -1,3 +1,5 @@
+//Read README.md before you start! 
+//Any Question? Contact: sw3023@columbia.edu
 #include <stdio.h>
 #define NGXM 256
 #define NOUTM 1024
