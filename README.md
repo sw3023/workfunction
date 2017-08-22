@@ -10,8 +10,10 @@ Version
 Adapted from the program VTOTAV that was distributed with VASP 4 and is of uncertain origin.
 
 V1 Fortran - Original distro version
+
 V2 Fortran - Various updates from JLF Da Silva and A Walsh (2007-2009)
              http://people.bath.ac.uk/aw558 (a.walsh@bath.ac.uk)
+
 V2 C       - Translated from V2 Fortran version by Shuhao Wu
              sw3023@columbia.edu
 
